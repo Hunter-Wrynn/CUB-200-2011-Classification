@@ -1,0 +1,15 @@
+LICENSE
+MANIFEST.in
+README.md
+setup.py
+alpha_clip/__init__.py
+alpha_clip/alpha_clip.py
+alpha_clip/bpe_simple_vocab_16e6.txt.gz
+alpha_clip/model.py
+alpha_clip/simple_tokenizer.py
+alpha_clip.egg-info/PKG-INFO
+alpha_clip.egg-info/SOURCES.txt
+alpha_clip.egg-info/dependency_links.txt
+alpha_clip.egg-info/requires.txt
+alpha_clip.egg-info/top_level.txt
+tests/test_consistency.py
